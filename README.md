@@ -4,24 +4,24 @@ A simple frontend web design project created using HTML, CSS, and Bootstrap. Thi
 
 ---
 ## ✨ Features
-Responsive Layout
-Bootstrap Design
-Navigation Bar
-Cards and Buttons
-Mobile Friendly Interface
-Simple and Clean UI
+- Responsive Layout
+- Bootstrap Design
+- Navigation Bar
+- Cards and Buttons
+- Mobile Friendly Interface
+- Simple and Clean UI
 
 ---
 ## 🛠️ Technologies Used
-HTML
-CSS
-Bootstrap 
+- HTML
+- CSS
+- Bootstrap 
 
 ---
 ## ▶️ How to Run
-Download or clone the repository
-Open the project folder
-Run Stuffsus1.html in browser
+1. Download or clone the repository
+2. Open the project folder
+3. Run Stuffsus1.html in browser
 
 ---
 
