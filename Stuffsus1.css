@@ -1,0 +1,31 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} */
+.simple{
+    height: 70vh;
+    background-image: url(../bootstrap/img/—Pngtree—luxurious\ grey\ toned\ waiting\ area_11967193.jpg );
+    background-color: rgba(0, 0, 0, 0.368);
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  
+}
+/* .aa{
+    font-size: 21em;
+} */
+.simple1{
+ background-color: rgb(220, 211, 211);
+  
+    position: relative;
+    top: -50px;
+    border-radius: 20px;
+
+}
+.imgh{
+    height: 250px;
+  
+}
+
